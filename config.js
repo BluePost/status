@@ -5,5 +5,5 @@ var monitors = [
     
 ];
 var title = 'BluePost Status'; //Page <title> and heading at top of page
-var refreshtime = 5; //How often to refresh in seconds
+var refreshtime = 20; //How often to refresh in seconds
 var footermessage = 'See <a href="//bluepost.xyz">BluePost.xyz</a> for more information'; //HTML to go in footer
